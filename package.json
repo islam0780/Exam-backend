@@ -1,7 +1,7 @@
 {
   "name": "frontend",
-  "homepage": "https://backend23.onrender.com",
-  "proxy": "https://backend23.onrender.com",
+  "homepage": "https://backend23.onrender.com/api",
+  "proxy": "https://backend23.onrender.com/api",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
