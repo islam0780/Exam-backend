@@ -1,5 +1,6 @@
 {
   "name": "frontend",
+  "homepage": "https://backend23.onrender.com",
   "proxy": "https://backend23.onrender.com",
   "version": "0.1.0",
   "private": true,
